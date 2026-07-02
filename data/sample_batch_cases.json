@@ -1,0 +1,17 @@
+[
+  {
+    "farmer_id": "farmer_001",
+    "description": "Tomato leaves have dark brown spots with yellow halos, starting from the bottom of the plant",
+    "region": "vijayawada"
+  },
+  {
+    "farmer_id": "farmer_002",
+    "description": "Small green insects clustered under leaves, leaves curling and sticky",
+    "region": "vijayawada"
+  },
+  {
+    "farmer_id": "farmer_003",
+    "description": "Older leaves turning yellow between the veins, plant looks generally pale",
+    "region": "default"
+  }
+]

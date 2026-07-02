@@ -1,0 +1,22 @@
+# Secrets — never commit real environment files
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+venv/
+.venv/
+
+# Generated data (case history, batch outputs) — not part of the
+# source project, regenerated at runtime
+data/case_history.json
+data/batch_results.json
+
+# OS/editor cruft
+.DS_Store
+.vscode/
+.idea/

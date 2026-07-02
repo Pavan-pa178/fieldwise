@@ -1,0 +1,14 @@
+# Core — required to run FieldWise in mock mode (no API key needed)
+streamlit>=1.38.0
+pytest>=8.0.0
+
+# MCP — required to run the market server over the real MCP protocol.
+# Without this installed, mcp_client.py automatically falls back to an
+# in-process call of the same tool logic, so the project still runs —
+# but install this to exercise genuine MCP communication.
+mcp>=1.0.0
+
+# Optional — only required if you set FIELDWISE_LLM_MODE=gemini to use
+# real Gemini-powered diagnosis instead of the offline mock responses.
+# google-generativeai>=0.8.0
+# pillow>=10.0.0

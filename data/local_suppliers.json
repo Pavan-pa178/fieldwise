@@ -1,0 +1,74 @@
+[
+  {
+    "supplier_name": "Krishna Agro Store",
+    "product": "Mancozeb 75% WP (fungicide, treats early blight)",
+    "category": "disease",
+    "approx_price": "INR 180 per 250g packet",
+    "distance_km": 2.1,
+    "region": "vijayawada"
+  },
+  {
+    "supplier_name": "Green Field Agri Supplies",
+    "product": "Copper Oxychloride 50% WP (broad-spectrum fungicide)",
+    "category": "disease",
+    "approx_price": "INR 150 per 250g packet",
+    "distance_km": 4.8,
+    "region": "vijayawada"
+  },
+  {
+    "supplier_name": "Sri Lakshmi Pesticides",
+    "product": "Imidacloprid 17.8% SL (treats aphids and sucking pests)",
+    "category": "pest",
+    "approx_price": "INR 220 per 100ml bottle",
+    "distance_km": 3.5,
+    "region": "vijayawada"
+  },
+  {
+    "supplier_name": "Krishna Agro Store",
+    "product": "Neem Oil 1500 ppm (organic pest control)",
+    "category": "pest",
+    "approx_price": "INR 250 per 500ml bottle",
+    "distance_km": 2.1,
+    "region": "vijayawada"
+  },
+  {
+    "supplier_name": "Green Field Agri Supplies",
+    "product": "Magnesium Sulphate (Epsom salt, foliar spray)",
+    "category": "nutrient_deficiency",
+    "approx_price": "INR 60 per kg",
+    "distance_km": 4.8,
+    "region": "vijayawada"
+  },
+  {
+    "supplier_name": "Sri Lakshmi Pesticides",
+    "product": "NPK 19:19:19 water-soluble fertilizer",
+    "category": "nutrient_deficiency",
+    "approx_price": "INR 140 per kg",
+    "distance_km": 3.5,
+    "region": "vijayawada"
+  },
+  {
+    "supplier_name": "Regional Agro Co-op",
+    "product": "Mancozeb 75% WP (fungicide, treats early blight)",
+    "category": "disease",
+    "approx_price": "INR 175 per 250g packet",
+    "distance_km": 6.0,
+    "region": "default"
+  },
+  {
+    "supplier_name": "Regional Agro Co-op",
+    "product": "Imidacloprid 17.8% SL (treats aphids and sucking pests)",
+    "category": "pest",
+    "approx_price": "INR 215 per 100ml bottle",
+    "distance_km": 6.0,
+    "region": "default"
+  },
+  {
+    "supplier_name": "Regional Agro Co-op",
+    "product": "NPK 19:19:19 water-soluble fertilizer",
+    "category": "nutrient_deficiency",
+    "approx_price": "INR 135 per kg",
+    "distance_km": 6.0,
+    "region": "default"
+  }
+]
